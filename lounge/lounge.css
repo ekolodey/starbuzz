@@ -12,3 +12,6 @@ p {
     font-family: sans-serif;
     color: maroon;
 }
+p.greentea {
+    color: green;
+}
