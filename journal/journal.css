@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Russo One";
-    src: url("fonts/RussoOne-Regular.woff") 
+    src: url("fonts/RussoOne-Regular.woff"),
 	     url("fonts/RussoOne-Regular.ttf");
 }
 body {
