@@ -8,7 +8,7 @@ body {
     font-size: small;
 }
 em {
-    text-decoration: line-through;
+    text-decoration: underline overline;
 }
 h1, h2 {
     color: #cc6600;
