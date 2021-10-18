@@ -7,6 +7,9 @@ body {
     font-family: Verdana, Geneva, Arial, sans-serif;
     font-size: small;
 }
+em {
+    text-decoration: line-through;
+}
 h1, h2 {
     color: #cc6600;
     text-decoration: underline;
