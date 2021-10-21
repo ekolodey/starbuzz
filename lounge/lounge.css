@@ -24,4 +24,7 @@ h2 {
     font-family: Georgia, "Times New Roman", Times, Serif;
     color: #444444;
     border-color: black;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
 }
