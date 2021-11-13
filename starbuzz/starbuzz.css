@@ -5,6 +5,13 @@ body {
   margin:           0px;
 }
 
+#allcontent {
+  width: 800px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #675c47;
+}
+
 #header {
   background-color: #675c47;
   margin:           10px;
